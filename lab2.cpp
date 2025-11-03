@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    //asad
    int a[10];
    cout<< "enter the 10 elements"<<endl;
    for
